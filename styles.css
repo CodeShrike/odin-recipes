@@ -1,0 +1,17 @@
+.test {
+    color:white;
+    background-color:grey;
+    font-weight:10;
+    font-size:44px;
+
+}
+
+#list {
+    font-size:22px;
+}
+
+body {
+    background-color:rgba(171, 171, 182, 0.863);
+    font-family:Arial, Helvetica, sans-serif;
+
+}
